@@ -9,6 +9,7 @@ The answer is 389,112 patterns.
 8 dots - 140,704
 9 dots - 140,704
 
+
 Set the appropriate values of min and max to get the desire output.
 
 All the patterns generated are stored in output.
