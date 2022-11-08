@@ -77,7 +77,7 @@ gen()
 print("sequencing complete")
 
 # saving the patterns
-with open(f"data/_{len(seqs)} patterns.txt","w") as output:
+with open(f"output/_{len(seqs)} patterns.txt","w") as output:
     for n in seqs:
         output.write(f"{n} \n")
 print(f"number of patterns found : {len(seqs)}")
